@@ -1,7 +1,7 @@
 {
   "name": "isomorphic-bigscreen",
   "description": "A re-export of BigScreen that is safe for server-side",
-  "version": "1.0.0",
+  "version": "2.0.5",
   "homepage": "https://github.com/wangcheng678/react-bigscreen/tree/master/packages/isomorphic-bigscreen",
   "repository": "https://github.com/wangcheng678/react-bigscreen.git",
   "author": "Cheng Wang <wangcheng678@gmail.com>",
@@ -14,6 +14,6 @@
     "index.browser.js"
   ],
   "dependencies": {
-    "bigscreen": "^2.0.5"
+    "bigscreen": "2.0.5"
   }
 }
