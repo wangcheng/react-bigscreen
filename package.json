@@ -1,0 +1,12 @@
+{
+  "name": "react-bigscreen",
+  "description": "React wrapper for BigScreen.js",
+  "version": "1.0.0",
+  "repository": "https://github.com/wangcheng678/react-bigscreen.git",
+  "author": "Cheng Wang <wangcheng678@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
